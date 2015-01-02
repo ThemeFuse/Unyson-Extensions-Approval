@@ -1,26 +1,19 @@
-Unyson Extensions Approval
-==========================
+Unyson Extensions Developer Approval
+====================================
 
-Unyson has many awesome extensions that help developers build powerfull themes.
+Unyson has many extensions that help developers build powerful WordPress themes.
 
-The problems is, once a developer created a theme and placed it on a marketplace
-he can't control the new extension versions that are going to be released
-which may contain some changes that will break something in their theme.
+The problem is that once a developer creates a theme and uploads it on a marketplace he can't control the compatibility of different extensions updates that we usually release. These updates might contain changes that is possible to break something in their theme.
 
-This repository solves the problem and allows developers to test and aprove 
-a new extension version before it will be released.
+This repository tries to solve this problem by allowing developers to test and approve a new extension update before we release it for public download.
 
-How it works?
--------------
+How it works
+------------
 
-Every time a new extension version is finished for release, 
-in this repository will be created an issue with details about it.
-The issue will be open for some time, so theme developers will be able to test it
-on their themes and give feedback. If everything is ok, the new extension version will be
-released and will appear as update at all Unyson users.
+Every time a new extension version is ready for release, an issue with all details about it will be created in this repository. The issue will be open for a couple of days in order for developers to get a chance to test the new extension version on their themes and give us feedback. If everything is ok, the new extension will be released and will appear as an update to all Unyson users.
 
 ----
 
-Make sure are watching this repository to receive notifications when new issues will be created or updated.
+Make sure you are watching this repository to receive notifications when new issues are created or updated.
 
 ![s](https://cloud.githubusercontent.com/assets/1475489/5579944/3829d49e-904b-11e4-9ffb-dce9fd37c67c.png)
